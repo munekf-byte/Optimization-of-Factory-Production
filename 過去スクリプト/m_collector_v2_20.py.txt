@@ -1,0 +1,23 @@
+Last login: Wed Jan 28 18:35:36 on ttys000
+mv635a@USERs-MacBook-Pro ~ % cd ~/Desktop/minrepo_project && source venv/bin/activate
+(venv) mv635a@USERs-MacBook-Pro minrepo_project % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
