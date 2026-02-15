@@ -1,1 +1,9 @@
+service_account.json
+tab_registry.json
+minrepo_state.json
+minrepo_database.csv
 venv/
+venv (1)/
+.DS_Store
+過去スクリプト/
+各種保存情報　ガイドテキスト/
